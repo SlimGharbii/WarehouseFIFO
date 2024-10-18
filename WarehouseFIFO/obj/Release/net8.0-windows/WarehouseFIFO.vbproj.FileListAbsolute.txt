@@ -1,0 +1,17 @@
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\bin\Release\net8.0-windows\WarehouseFIFO.exe
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\bin\Release\net8.0-windows\WarehouseFIFO.deps.json
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\bin\Release\net8.0-windows\WarehouseFIFO.runtimeconfig.json
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\bin\Release\net8.0-windows\WarehouseFIFO.dll
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\bin\Release\net8.0-windows\WarehouseFIFO.pdb
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\obj\Release\net8.0-windows\WarehouseFIFO.Form1.resources
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\obj\Release\net8.0-windows\WarehouseFIFO.Resources.resources
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\obj\Release\net8.0-windows\WarehouseFIFO.vbproj.GenerateResource.cache
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\obj\Release\net8.0-windows\WarehouseFIFO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\obj\Release\net8.0-windows\WarehouseFIFO.AssemblyInfoInputs.cache
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\obj\Release\net8.0-windows\WarehouseFIFO.AssemblyInfo.vb
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\obj\Release\net8.0-windows\WarehouseFIFO.vbproj.CoreCompileInputs.cache
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\obj\Release\net8.0-windows\WarehouseFIFO.dll
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\obj\Release\net8.0-windows\refint\WarehouseFIFO.dll
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\obj\Release\net8.0-windows\WarehouseFIFO.pdb
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\obj\Release\net8.0-windows\WarehouseFIFO.genruntimeconfig.cache
+C:\Users\s.gharbi\source\repos\WarehouseFIFO\WarehouseFIFO\obj\Release\net8.0-windows\ref\WarehouseFIFO.dll
